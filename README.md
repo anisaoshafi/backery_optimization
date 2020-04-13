@@ -1,6 +1,6 @@
 # bakery_optimization
 This problem is a combination sum (with repetition) problem.
-Each order contains the minimal number of packs.
+The output contains the minimal number of packs.
 
 ### To run the code
 - Make sure you have python3 installed
