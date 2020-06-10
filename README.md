@@ -9,8 +9,10 @@ The output contains the minimal number of packs.
 - Run driver.py (to test on different input)
 - Insert input in console:
   
+  ```
   10 VS5
-  
+
   14 MB11
-  
+
   13 CF
+  ```
